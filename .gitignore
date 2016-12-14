@@ -1,0 +1,8 @@
+build/
+dist/
+nbproject/private/
+.cproject
+.dep.inc
+.mxproject
+.project
+patlite_controller.xml
